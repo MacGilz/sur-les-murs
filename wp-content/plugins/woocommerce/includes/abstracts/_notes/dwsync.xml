@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="abstract-wc-data.php" server="slm.kingbee.ovh" local="131799134414889949" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-deprecated-hooks.php" server="slm.kingbee.ovh" local="131799134417448843" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-integration.php" server="slm.kingbee.ovh" local="131799134420952569" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-log-handler.php" server="slm.kingbee.ovh" local="131799134424768138" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-object-query.php" server="slm.kingbee.ovh" local="131799134427704307" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-order.php" server="slm.kingbee.ovh" local="131799134430102664" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-payment-gateway.php" server="slm.kingbee.ovh" local="131799134430571002" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-payment-token.php" server="slm.kingbee.ovh" local="131799134431103657" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-privacy.php" server="slm.kingbee.ovh" local="131799134431434662" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-product.php" server="slm.kingbee.ovh" local="131799134434392398" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-rest-controller.php" server="slm.kingbee.ovh" local="131799134435937732" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-rest-crud-controller.php" server="slm.kingbee.ovh" local="131799134437406151" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-rest-posts-controller.php" server="slm.kingbee.ovh" local="131799134438885319" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-rest-shipping-zones-controller.php" server="slm.kingbee.ovh" local="131799134439475720" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-session.php" server="slm.kingbee.ovh" local="131799134443721609" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-settings-api.php" server="slm.kingbee.ovh" local="131799134449513299" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-rest-terms-controller.php" server="slm.kingbee.ovh" local="131799134450077936" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-widget.php" server="slm.kingbee.ovh" local="131799134454909222" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-shipping-method.php" server="slm.kingbee.ovh" local="131799134456639912" remote="131793186000000000" Dst="2" />
+<file name="class-wc-background-process.php" server="slm.kingbee.ovh" local="131799134457905565" remote="131793186000000000" Dst="2" />
+</dwsync>

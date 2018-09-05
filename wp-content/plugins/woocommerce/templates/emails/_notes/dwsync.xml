@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin-cancelled-order.php" server="slm.kingbee.ovh" local="131799134991184913" remote="131793186000000000" Dst="2" />
+<file name="admin-failed-order.php" server="slm.kingbee.ovh" local="131799134991544345" remote="131793186000000000" Dst="2" />
+<file name="admin-new-order.php" server="slm.kingbee.ovh" local="131799134991803262" remote="131793186000000000" Dst="2" />
+<file name="customer-completed-order.php" server="slm.kingbee.ovh" local="131799134992068116" remote="131793186000000000" Dst="2" />
+<file name="customer-invoice.php" server="slm.kingbee.ovh" local="131799134992485447" remote="131793186000000000" Dst="2" />
+<file name="customer-new-account.php" server="slm.kingbee.ovh" local="131799134992866347" remote="131793186000000000" Dst="2" />
+<file name="customer-note.php" server="slm.kingbee.ovh" local="131799134993198042" remote="131793186000000000" Dst="2" />
+<file name="customer-on-hold-order.php" server="slm.kingbee.ovh" local="131799134993556883" remote="131793186000000000" Dst="2" />
+<file name="customer-processing-order.php" server="slm.kingbee.ovh" local="131799134993836324" remote="131793186000000000" Dst="2" />
+<file name="customer-refunded-order.php" server="slm.kingbee.ovh" local="131799134994105415" remote="131793186000000000" Dst="2" />
+<file name="customer-reset-password.php" server="slm.kingbee.ovh" local="131799134994643974" remote="131793186000000000" Dst="2" />
+<file name="email-addresses.php" server="slm.kingbee.ovh" local="131799134995112727" remote="131793186000000000" Dst="2" />
+<file name="email-customer-details.php" server="slm.kingbee.ovh" local="131799134995420350" remote="131793186000000000" Dst="2" />
+<file name="email-downloads.php" server="slm.kingbee.ovh" local="131799134996089378" remote="131793186000000000" Dst="2" />
+<file name="email-footer.php" server="slm.kingbee.ovh" local="131799134996339459" remote="131793186000000000" Dst="2" />
+<file name="email-header.php" server="slm.kingbee.ovh" local="131799134996638636" remote="131793186000000000" Dst="2" />
+<file name="email-order-details.php" server="slm.kingbee.ovh" local="131799134997312364" remote="131793186000000000" Dst="2" />
+<file name="email-order-items.php" server="slm.kingbee.ovh" local="131799134997651451" remote="131793186000000000" Dst="2" />
+<file name="email-styles.php" server="slm.kingbee.ovh" local="131799134998190615" remote="131793186000000000" Dst="2" />
+</dwsync>

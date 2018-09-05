@@ -1,0 +1,18 @@
+/* CSS Document */
+
+/*
+----------------------------------------------------------------
+ACF SELECT RUBRIQUES( ANEB, EPTB...)
+----------------------------------------------------------------
+*/
+#acf-group_5b461f176745a label {color:hsla(37,25%,55%,1.00);}
+#acf-group_5b461f176745a .select2-container--default .select2-selection--multiple
+{
+    border-color:hsla(37,25%,55%,1.00);
+}
+#acf-group_5b461f176745a .select2-container--default.-acf .select2-selection--multiple .select2-selection__choice{
+    background-color: hsla(37,25%,55%,1.00);
+    color: #fff
+}
+/* croix remove*/
+#acf-group_5b461f176745a .select2-container--default .select2-selection--multiple .select2-selection__choice__remove{ color: #fff}

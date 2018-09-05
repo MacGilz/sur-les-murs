@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessToken.php" server="slm.kingbee.ovh" local="131799134920366530" remote="131793186000000000" Dst="2" />
+<file name="Authentication.php" server="slm.kingbee.ovh" local="131799134921265476" remote="131793186000000000" Dst="2" />
+<file name="Authorization.php" server="slm.kingbee.ovh" local="131799134921924873" remote="131793186000000000" Dst="2" />
+<file name="CardToken.php" server="slm.kingbee.ovh" local="131799134923161604" remote="131793186000000000" Dst="2" />
+<file name="Chargeback.php" server="slm.kingbee.ovh" local="131799134924047141" remote="131793186000000000" Dst="2" />
+<file name="Constants.php" server="slm.kingbee.ovh" local="131799134924420926" remote="131793186000000000" Dst="2" />
+<file name="Coupon.php" server="slm.kingbee.ovh" local="131799134925235213" remote="131793186000000000" Dst="2" />
+<file name="Customer.php" server="slm.kingbee.ovh" local="131799134926383336" remote="131793186000000000" Dst="2" />
+<file name="Deposit.php" server="slm.kingbee.ovh" local="131799134927082103" remote="131793186000000000" Dst="2" />
+<file name="Event.php" server="slm.kingbee.ovh" local="131799134928611775" remote="131793186000000000" Dst="2" />
+<file name="Exceptions.php" server="slm.kingbee.ovh" local="131799134931225369" remote="131793186000000000" Dst="2" />
+<file name="FraudCheck.php" server="slm.kingbee.ovh" local="131799134934354454" remote="131793186000000000" Dst="2" />
+<file name="Http.php" server="slm.kingbee.ovh" local="131799134936585656" remote="131793186000000000" Dst="2" />
+<file name="Invoice.php" server="slm.kingbee.ovh" local="131799134937467740" remote="131793186000000000" Dst="2" />
+<file name="InvoiceItem.php" server="slm.kingbee.ovh" local="131799134937965116" remote="131793186000000000" Dst="2" />
+<file name="Object.php" server="slm.kingbee.ovh" local="131799134938494894" remote="131793186000000000" Dst="2" />
+<file name="Payment.php" server="slm.kingbee.ovh" local="131799134938784356" remote="131793186000000000" Dst="2" />
+<file name="PaymentsApi.php" server="slm.kingbee.ovh" local="131799134939158251" remote="131793186000000000" Dst="2" />
+<file name="Plan.php" server="slm.kingbee.ovh" local="131799134939466672" remote="131793186000000000" Dst="2" />
+<file name="Refund.php" server="slm.kingbee.ovh" local="131799134939717071" remote="131793186000000000" Dst="2" />
+<file name="ResourceList.php" server="slm.kingbee.ovh" local="131799134939900833" remote="131793186000000000" Dst="2" />
+<file name="Subscription.php" server="slm.kingbee.ovh" local="131799134940238749" remote="131793186000000000" Dst="2" />
+<file name="Tax.php" server="slm.kingbee.ovh" local="131799134940504836" remote="131793186000000000" Dst="2" />
+<file name="TransactionReview.php" server="slm.kingbee.ovh" local="131799134940754173" remote="131793186000000000" Dst="2" />
+<file name="Webhook.php" server="slm.kingbee.ovh" local="131799134941098387" remote="131793186000000000" Dst="2" />
+</dwsync>

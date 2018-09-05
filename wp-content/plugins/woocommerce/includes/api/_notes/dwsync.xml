@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wc-rest-coupons-controller.php" server="slm.kingbee.ovh" local="131799134830687908" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-authentication.php" server="slm.kingbee.ovh" local="131799134831322113" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-customer-downloads-controller.php" server="slm.kingbee.ovh" local="131799134831734860" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-customers-controller.php" server="slm.kingbee.ovh" local="131799134832309879" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-exception.php" server="slm.kingbee.ovh" local="131799134832629025" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-network-orders-controller.php" server="slm.kingbee.ovh" local="131799134833177558" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-order-notes-controller.php" server="slm.kingbee.ovh" local="131799134833771704" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-order-refunds-controller.php" server="slm.kingbee.ovh" local="131799134834205766" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-orders-controller.php" server="slm.kingbee.ovh" local="131799134834595998" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-payment-gateways-controller.php" server="slm.kingbee.ovh" local="131799134835115273" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-attribute-terms-controller.php" server="slm.kingbee.ovh" local="131799134835721409" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-attributes-controller.php" server="slm.kingbee.ovh" local="131799134835889552" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-categories-controller.php" server="slm.kingbee.ovh" local="131799134836643264" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-reviews-controller.php" server="slm.kingbee.ovh" local="131799134837256708" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-shipping-classes-controller.php" server="slm.kingbee.ovh" local="131799134837406315" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-tags-controller.php" server="slm.kingbee.ovh" local="131799134837855339" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-product-variations-controller.php" server="slm.kingbee.ovh" local="131799134838938127" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-report-sales-controller.php" server="slm.kingbee.ovh" local="131799134839278126" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-products-controller.php" server="slm.kingbee.ovh" local="131799134839697689" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-report-top-sellers-controller.php" server="slm.kingbee.ovh" local="131799134840196173" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-reports-controller.php" server="slm.kingbee.ovh" local="131799134840477441" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-setting-options-controller.php" server="slm.kingbee.ovh" local="131799134840876863" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-settings-controller.php" server="slm.kingbee.ovh" local="131799134841345602" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-shipping-methods-controller.php" server="slm.kingbee.ovh" local="131799134841844262" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-shipping-zone-locations-controller.php" server="slm.kingbee.ovh" local="131799134842192101" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-shipping-zone-methods-controller.php" server="slm.kingbee.ovh" local="131799134842800465" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-shipping-zones-controller.php" server="slm.kingbee.ovh" local="131799134843159758" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-system-status-controller.php" server="slm.kingbee.ovh" local="131799134843469259" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-system-status-tools-controller.php" server="slm.kingbee.ovh" local="131799134844167720" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-tax-classes-controller.php" server="slm.kingbee.ovh" local="131799134845199778" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-taxes-controller.php" server="slm.kingbee.ovh" local="131799134845750287" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-webhook-deliveries-controller.php" server="slm.kingbee.ovh" local="131799134846231997" remote="131793186000000000" Dst="2" />
+<file name="class-wc-rest-webhooks-controller.php" server="slm.kingbee.ovh" local="131799134847041602" remote="131793186000000000" Dst="2" />
+</dwsync>

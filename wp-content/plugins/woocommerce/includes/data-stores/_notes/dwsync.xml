@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="abstract-wc-order-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134898612501" remote="131793186000000000" Dst="2" />
+<file name="abstract-wc-order-item-type-data-store.php" server="slm.kingbee.ovh" local="131799134898812618" remote="131793186000000000" Dst="2" />
+<file name="class-wc-coupon-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134899361151" remote="131793186000000000" Dst="2" />
+<file name="class-wc-customer-data-store-session.php" server="slm.kingbee.ovh" local="131799134899929894" remote="131793186000000000" Dst="2" />
+<file name="class-wc-customer-data-store.php" server="slm.kingbee.ovh" local="131799134900140900" remote="131793186000000000" Dst="2" />
+<file name="class-wc-customer-download-data-store.php" server="slm.kingbee.ovh" local="131799134900559774" remote="131793186000000000" Dst="2" />
+<file name="class-wc-customer-download-log-data-store.php" server="slm.kingbee.ovh" local="131799134900928796" remote="131793186000000000" Dst="2" />
+<file name="class-wc-data-store-wp.php" server="slm.kingbee.ovh" local="131799134901168152" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134901408716" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-coupon-data-store.php" server="slm.kingbee.ovh" local="131799134901701310" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-data-store.php" server="slm.kingbee.ovh" local="131799134901985955" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-fee-data-store.php" server="slm.kingbee.ovh" local="131799134902205379" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-product-data-store.php" server="slm.kingbee.ovh" local="131799134902506528" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-shipping-data-store.php" server="slm.kingbee.ovh" local="131799134902714009" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-item-tax-data-store.php" server="slm.kingbee.ovh" local="131799134902943406" remote="131793186000000000" Dst="2" />
+<file name="class-wc-order-refund-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134903282489" remote="131793186000000000" Dst="2" />
+<file name="class-wc-payment-token-data-store.php" server="slm.kingbee.ovh" local="131799134903521856" remote="131793186000000000" Dst="2" />
+<file name="class-wc-product-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134903890860" remote="131793186000000000" Dst="2" />
+<file name="class-wc-product-grouped-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134904110276" remote="131793186000000000" Dst="2" />
+<file name="class-wc-product-variable-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134904339677" remote="131793186000000000" Dst="2" />
+<file name="class-wc-product-variation-data-store-cpt.php" server="slm.kingbee.ovh" local="131799134904728625" remote="131793186000000000" Dst="2" />
+<file name="class-wc-shipping-zone-data-store.php" server="slm.kingbee.ovh" local="131799134904958008" remote="131793186000000000" Dst="2" />
+<file name="class-wc-webhook-data-store.php" server="slm.kingbee.ovh" local="131799134905162476" remote="131793186000000000" Dst="2" />
+</dwsync>

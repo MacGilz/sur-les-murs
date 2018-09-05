@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin-cancelled-order.php" server="slm.kingbee.ovh" local="131799134998629451" remote="131793186000000000" Dst="2" />
+<file name="admin-failed-order.php" server="slm.kingbee.ovh" local="131799134998818942" remote="131793186000000000" Dst="2" />
+<file name="admin-new-order.php" server="slm.kingbee.ovh" local="131799134999013615" remote="131793186000000000" Dst="2" />
+<file name="customer-completed-order.php" server="slm.kingbee.ovh" local="131799134999272918" remote="131793186000000000" Dst="2" />
+<file name="customer-invoice.php" server="slm.kingbee.ovh" local="131799134999462424" remote="131793186000000000" Dst="2" />
+<file name="customer-new-account.php" server="slm.kingbee.ovh" local="131799134999655357" remote="131793186000000000" Dst="2" />
+<file name="customer-note.php" server="slm.kingbee.ovh" local="131799134999841402" remote="131793186000000000" Dst="2" />
+<file name="customer-on-hold-order.php" server="slm.kingbee.ovh" local="131799135000031272" remote="131793186000000000" Dst="2" />
+<file name="customer-processing-order.php" server="slm.kingbee.ovh" local="131799135000230540" remote="131793186000000000" Dst="2" />
+<file name="customer-refunded-order.php" server="slm.kingbee.ovh" local="131799135000519587" remote="131793186000000000" Dst="2" />
+<file name="customer-reset-password.php" server="slm.kingbee.ovh" local="131799135000689455" remote="131793186000000000" Dst="2" />
+<file name="email-addresses.php" server="slm.kingbee.ovh" local="131799135000878632" remote="131793186000000000" Dst="2" />
+<file name="email-customer-details.php" server="slm.kingbee.ovh" local="131799135001130963" remote="131793186000000000" Dst="2" />
+<file name="email-downloads.php" server="slm.kingbee.ovh" local="131799135001320545" remote="131793186000000000" Dst="2" />
+<file name="email-order-details.php" server="slm.kingbee.ovh" local="131799135001519930" remote="131793186000000000" Dst="2" />
+<file name="email-order-items.php" server="slm.kingbee.ovh" local="131799135001709428" remote="131793186000000000" Dst="2" />
+</dwsync>
